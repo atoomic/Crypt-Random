@@ -6,7 +6,7 @@
 ##
 ## $Id: makerandom_itv.t,v 1.1.1.1 2001/06/21 15:34:49 vipul Exp $
 
-use lib '../lib';
+
 use Crypt::Random qw(makerandom_itv);
 
 print "1..5\n";

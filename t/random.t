@@ -8,8 +8,8 @@
 ##
 ## $Id: random.t,v 1.3 2001/06/22 03:26:03 vipul Exp $
 
-use lib 'lib';
-use lib '../lib';
+
+
 use Crypt::Random qw(makerandom makerandom_itv);
 
 print "1..1\n";

@@ -8,7 +8,6 @@
 ##
 ## $Id: octet_string.t,v 1.1.1.1 2001/06/21 15:34:49 vipul Exp $
 
-use lib "../lib";
 use Crypt::Random qw(makerandom_octet);
 
 print "1..2\n";
