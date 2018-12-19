@@ -10,7 +10,6 @@
 
 package Crypt::Random::Provider::devurandom; 
 use strict;
-use lib qw(lib);
 use Crypt::Random::Provider::File;
 use vars qw(@ISA);
 @ISA = qw(Crypt::Random::Provider::File);

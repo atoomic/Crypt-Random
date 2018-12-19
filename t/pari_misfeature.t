@@ -6,8 +6,8 @@
 ##
 ## $Id: pari_misfeature.t,v 1.2 2001/06/22 18:17:19 vipul Exp $
 
-use lib 'lib';
-use lib '../lib';
+
+
 
 print "1..1\n";
 
